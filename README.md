@@ -8,11 +8,11 @@ Used jetpack compose which is morden ui toolkit for andorid
 ## Getting started
 
 ### Prerequisites
--** Android Kola latest version**
--** JDK 17**
+-**Android Kola latest version**
+-**JDK 17**
 
 ### Installation
-1. ** Clone the repository **
+1. . **Clone the repository:**
    ``` bash
    https://github.com/avelon1A/MyGemini.git
    
