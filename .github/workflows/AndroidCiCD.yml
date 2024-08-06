@@ -2,7 +2,7 @@ name: AndroidBuild
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [main]
   push:
     branches: [main]
 
@@ -21,7 +21,7 @@ jobs:
           distribution: 'adopt'
 
       - name: Build with Gradle
-        run: ./gradlew assembleDebug
+        run: gradlew.bat assembleDebug
 
       - name: Upload Build Artifacts
         uses: actions/upload-artifact@v3
