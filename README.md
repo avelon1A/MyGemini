@@ -1,7 +1,8 @@
 # MyGemnini
 Welcome to Gemini Ai powered AI chat bot repository !
 
-<img src="[assets/screenshot.png](https://github.com/avelon1A/MyGemini/blob/main/screenshort/img.png)" alt="App Screenshot" width="600"/>
+<img src="https://github.com/avelon1A/MyGemini/blob/main/screenshort/img.png" alt="App Screenshot" width="600"/>
+
 
 
 ## Features
