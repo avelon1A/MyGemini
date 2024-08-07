@@ -1,6 +1,10 @@
 # MyGemnini
 Welcome to Gemini Ai powered AI chat bot repository !
 
+<img src="https://github.com/avelon1A/MyGemini/blob/main/screenshort/img.png" alt="App Screenshot" height="500"/>
+
+
+
 ## Features
 
 Used jetpack compose which is morden ui toolkit for andorid 
